@@ -1,0 +1,14 @@
+# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+tasks:
+  - init: |
+      echo 'init script' # runs during prebuild
+      rustup update
+      cargo install wasm-pack
+      cargo install cargo-generate
+      npm install -g npm@8.12.1
+    command: echo 'start script'
+
+# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
+ports:
+  - port: 3000
+    onOpen: open-preview
