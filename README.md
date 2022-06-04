@@ -1,4 +1,16 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/shwcsmack/wasm-test)
+
+Links
+https://rustwasm.github.io/docs/book/introduction.html
+https://rustwasm.github.io/wasm-bindgen/introduction.html
+https://webgl2fundamentals.org/
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+https://www.nalgebra.org/docs/user_guide/cg_recipes/
+
+https://julien-decharentenay.medium.com/implementing-a-webassembly-webgl-viewer-using-rust-a6d8a703153d
+
+
+
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
