@@ -1,0 +1,3 @@
+[submodule "www"]
+	path = www
+	url = https://github.com/shwcsmack/wasm-test-www.git
