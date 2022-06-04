@@ -9,6 +9,8 @@ https://www.nalgebra.org/docs/user_guide/cg_recipes/
 
 https://julien-decharentenay.medium.com/implementing-a-webassembly-webgl-viewer-using-rust-a6d8a703153d
 
+https://canvasapp.com/blog/how-we-chose-our-stack/
+https://canvasapp.com/blog/building-modern-web-apps-with-rust-wasm-and-webpack/
 
 
 <div align="center">
